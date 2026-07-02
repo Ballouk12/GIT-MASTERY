@@ -1,0 +1,1 @@
+print("sous multiple d'un nombre")
